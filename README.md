@@ -1,7 +1,7 @@
 # Azure Function Demo - Voting App
-Author - Tao Yang (TY Consulting Pty. Ltd.)
+Author - T.Y
 
-**Copyright - (c) 2017 TY Consulting Pty. Ltd. All rights reserved.**
+**Copyright - TY. All rights reserved.**
 
 ## Description
 This folder contains the deployment artifacts for an Azure Functions demo app. This demo app allows users to cast vote using a HTTP GET request (i.e. by hitting an URL from browser, or scanning a QR code from mobile devices). In this demo, users can vote how much they love the famous Australian food Vegemite ([https://www.youtube.com/watch?v=P_sUhTWtvG4](https://www.youtube.com/watch?v=P_sUhTWtvG4))
