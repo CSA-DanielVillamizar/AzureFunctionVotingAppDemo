@@ -1,0 +1,14 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.19.1",
+        "Microsoft.WindowsAzure.Management.WebSites": "4.0.0",
+        "Microsoft.IdentityModel.Logging": "5.2.0",
+        "Microsoft.Azure.Common": "2.1.4",
+        "Microsoft.Azure.KeyVault": "2.3.2",
+        "System.Data.SqlClient": "4.3.0"
+      }
+    }
+  }
+}
